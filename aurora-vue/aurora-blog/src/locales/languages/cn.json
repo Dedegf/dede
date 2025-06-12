@@ -11,6 +11,7 @@
     "friends": "朋友们",
     "album": "相册",
     "search": "搜索结果",
+    "camera": "照相",
     "not-found": "无法找到页面"
   },
   "home": {
@@ -71,5 +72,9 @@
     "personal-center":"个人中心",
     "running-time":"运行时间",
     "view-count":"总访问量"
+  },
+  "camera": {
+    "start": "开启摄像头",
+    "take": "拍照"
   }
 }
