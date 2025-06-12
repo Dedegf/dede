@@ -66,6 +66,15 @@ export default {
         en: 'Friends'
       },
       children: []
+    },
+    {
+      name: 'Camera',
+      path: '/camera',
+      i18n: {
+        cn: '照相',
+        en: 'Camera'
+      },
+      children: []
     }
   ]
 }
